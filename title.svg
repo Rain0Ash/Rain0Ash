@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 400 100" width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+				@keyframes float_animation {
+					0%, 100% {
+						background-position: 0 0;
+					}
+				
+					50% {
+						background-position: 100% 0;
+					}
+				}
+				
+				.rainbow_text_animated {
+					vertical-align: center;
+					text-align: center;
+					background: linear-gradient(to right, #6666FF, #0099FF, #00FF00, #FF3399, #6666FF);
+					animation: float_animation 10s ease-in-out infinite;
+					-webkit-background-clip: text;
+					color: transparent;
+					background-size: 400% 100%;
+				}
+            </style>
+
+            <h1 class="rainbow_text_animated">Welcome! I'm 𝕽𝖆𝖎𝖓0𝕬𝖘𝖍, Junior C# Developer</h1>
+        </div>
+    </foreignObject>
+</svg>
