@@ -1,11 +1,10 @@
 <div align="center">
-    <img align="center" src="./title.svg" alt="Welcome! I'm 𝕽𝖆𝖎𝖓0𝕬𝖘𝖍, Junior C# Developer"/>
+    <img align="center" src="./title.svg" alt="Welcome! I'm 𝕽𝖆𝖎𝖓0𝕬𝖘𝖍, Middle C# Developer"/>
 </div>
 
 <div align="left">
     <ul>
         <li>🎓 I'm studying <b><font color="#f08080">Software Engineering</font></b> at the Crimean Federal University</li>
-        <li>🌱 I'm currently learning <b>Asp.Net Core, TypeScript, React.</b></li>
         <li>🎯 I'm Working on Improving Mentoring &amp; Problem Solving skills.</li>
         <li>
             <span>👨‍💻 My projects are available at&nbsp;</span>
@@ -27,16 +26,16 @@
         <li>💬 Ask me about:
             <dl>
                 <dt>Technologies:</dt>
-                    <dd>C#, .NET, WinAPI, Regular Expressions.</dd>
+                    <dd>C#, .NET Core, ASP.NET Core, Entity Framework Core, WPF, Windows Forms, WinAPI, Regular Expressions.</dd>
                 <dt>Hobbies:</dt>
                     <dd>Computer Games, Music</dd>
             </dl>
         </li>
         <li>‍💻 Known technologies:
             <ul>
-                <li>✅C#, ✅.NET Core, .NET Entity Framework Core, 🎓<i>ASP.NET Core</i>, Windows Forms, .NET Ecosystem</li>
+                <li>✅C#, ✅.NET Core, .NET Entity Framework Core, 🎓<i>ASP.NET Core</i>, WPF, Windows Forms, .NET Ecosystem</li>
                 <li>SQL, MS SQL Server</li>
-                <li>HTML, CSS, JavaScript, 🎓<i>TypeScript</i>, 🎓<i>React</i></li>
+                <li>HTML, CSS, JavaScript</li>
                 <li>Git, ✅Regular Expressions, ✅Windows API, JSON, XML, T4 Template</li>
                 <li>Windows &amp; Linux administration skills</li>
                 <li>Python, C</li>
